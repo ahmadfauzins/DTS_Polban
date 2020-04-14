@@ -1,0 +1,11 @@
+Kirim Ke : sandhi.rachmat@ptbsp.com
+
+Batas Maksimal : Sabtu, 23:59
+
+Subject 	: Project_1_AhmadFauzi
+
+Kirim : Activity.java dkk.
+	activity_main.xml
+	String.Xml
+Ket.  : Jika Ada Gambar Bisa dikirim juga gambar nya.
+

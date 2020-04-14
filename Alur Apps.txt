@@ -1,0 +1,5 @@
+RELEASE ANDROID STUDIO :
+
+ALFA   : Local team Oleh Developer
+BETA   : 
+DEPLOYMENT :

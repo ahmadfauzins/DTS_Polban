@@ -1,0 +1,7 @@
+Layout :
+
+Linear   : Lurus / Kesamping
+Relative : List / Kebawah 
+
+
+Match Parent : Menyesuaikan ukuran HP otomatis

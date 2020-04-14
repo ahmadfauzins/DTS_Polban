@@ -1,0 +1,30 @@
+Dosen Pengajar
+
+Nama 	: Ghiffari Munawwar,S.Kom,M.T (Pak Ghiffari)/ITB,UNBRAW
+Position: IT Lecturer Polban
+Alamat 	: Cipagerian Asri Street Cimahi City , BDG
+email 	: ghyfer@gmail.com\
+	  ghifari.munawar@polban.ac.id
+
+PT BEE Solution Partner
+
+
+user : Mahasiswa JTK Lt.1
+pass : rajinbelajar
+proxy: 10.10.0.6 
+port : 3128
+
+shared folder : \\10.10.66.98
+
+link Form   : https://forms.gle/8fcZvL7ap96gQRir7
+link Materi :https://drive.google.com/drive/folders/1UMiCT4Gcw2DoC-yZ3X9tyjgPIj19xqjl
+		bit.ly/MateriPelatihanAndroid
+
+Bahasa Java  sebelumnya hook. pohon hook.
+
+
+a = 4
+x = 1
+y = x*x = 1
+if y = a print akar a
+x=+1

@@ -1,0 +1,7 @@
+MENGENAL FUNCTION 
+
+function luasSegitiga(alas, tinggi){
+    luas = alas * tinggi / 2;
+    return luas;
+}
+
